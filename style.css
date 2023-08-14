@@ -1,0 +1,11 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+h1{
+ width: 800px;
+ height: 65px;
+font-weight: bold;
+font-family: 'Dancing Script', cursive;
+font-size: 8000px;
+}
